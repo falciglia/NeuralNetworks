@@ -20,15 +20,25 @@ The Dataset can be downloaded from [here](https://data.donders.ru.nl/collections
 3) Be sure to change the relative path within both files <font color="red">`nn_main_69_NEWTRAIN.py`</font> and <font color="red">`nn_utils_69_NEWTRAIN.py`</font>. <br>
 4) In order to run the model, just write the following command: <br>
 <font color="red">`python3 /<your path>/nn_main_69_NEWTRAIN.py`</font> <br>
-  <br>
-**The results and plots of the training and validation losses are all shown in the .ipynb notebook in the repository, along with all the details necessary to understand the model implementation.**
+  
+NOTE: Since it was not possible to upload the .ckpt file with the weights of the model, it wil be necessary to run the model starting from the first epoch. To do this, simply comment out the line where the .ckpt file is recalled in <font color="red">`nn_main_69_NEWTRAIN.py`</font>: <br>
+  
+```ruby
+# Training and Evaluating the NeuralVisualDecodingfMRIModel Model
+trainer_kay.fit(model,
+                visMNIST_data_module.train_dataloader(),
+                visMNIST_data_module.val_dataloader()),
+                #ckpt_path='/raid/home/falcigls/NeuralNetworks/DATASET_69/Stuff_NEWTRAIN/TESTS/epoch=1999-step=90000 copy.ckpt')
+
+print("\n\nFIT DONE\n\n")
+``` 
 
 
 ## 📝 Further Info:
 Pytorch Lightning has been used for this re-implementation. Anyway, since I had to work with multiple optimizers at the same time, the training and optimization processes have been managed manually.
 All experiments have been conducted using a V100 GPU with 32 GB of Virtual RAM (VRAM), from INFN, kindly made available by Professor Stefano Giagu. <br>
 Moreover, *cuda* and *cuDNN* gave problems to run convolutions due to their versions and compatibility. I tried to disable cuDNN, by setting the *torch.backends.cudnn.enabled* flag to *False*, but this really slower training performances. Eventually, only with one dataset (out of all the datasets exploited in the [**reference paper**](https://www.sciencedirect.com/science/article/pii/S1053811920310879)),  I managed to train efficacely the entire architecture by adjusting the *batch_size* and by choosing proper optimizers. <br>
-  <br>
+  
 For any doubt or clarification send me an [email](mailto:falciglia.2015426@studenti.uniroma1.it?subject=[GitHub_LTW]).<br>
-  <br>
+  
 **Further note**: The above material is published here for university project purposes only. All rights reserved.
