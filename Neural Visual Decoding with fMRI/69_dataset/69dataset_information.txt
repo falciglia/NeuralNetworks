@@ -1,0 +1,10 @@
+X: presented 28 x 28 images
+Y: measured brain activity
+prior: image prior
+structural: structural MRI
+funloc: localizer names
+masks: localizer masks
+
+If you use this data for research, please cite: 
+
+van Gerven, M., de Lange, F. P., & Heskes, T. (2010). Neural decoding with hierarchical generative models. Neural Computation, 22, 3127–42.
