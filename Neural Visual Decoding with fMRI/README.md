@@ -1,7 +1,7 @@
 # Neural Visual Decoding with fMRI
 
 **Final Project - “Neural Networks” Course at Sapienza University of Rome, A.Y. 2022/2023** \
-Prof. Danilo Comminiello, Prof. Simone Scardapane <br>
+Professor Danilo Comminiello, Professor Simone Scardapane <br>
 Author: Salvatore Falciglia, Master Student in Artificial Intelligence and Robotics - Sapienza, University of Rome
 
 ## 📜Short Abstract
