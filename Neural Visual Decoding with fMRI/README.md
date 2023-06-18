@@ -17,7 +17,7 @@ The Dataset can be downloaded from [here](https://data.donders.ru.nl/collections
 1) Clone the repository on your system. <br>
 2) Be sure to have PyTorch Lightning installed on your system, otherwise install it: <br>
 <font color="red">`pip install pytorch-lightning`</font> <br>
-3) Be sure to change the relative path within both files <font color="red">`nn_main_69_NEWTRAIN.py`</font> and <font color="red">`nn_utils_69_NEWTRAIN.py`</font>. <br>
+3) Be sure to change the relative paths within both files <font color="red">`nn_main_69_NEWTRAIN.py`</font> and <font color="red">`nn_utils_69_NEWTRAIN.py`</font>. <br>
 4) In order to run the model, just write the following command: <br>
 <font color="red">`python3 /<your path>/nn_main_69_NEWTRAIN.py`</font> <br>
   
