@@ -1,7 +1,7 @@
 <div align="center">
 
 # **A novel Deep Learning approach for Visual Neural Decoding<br> leveraging EEG manifold and fMRI recordings**
-*Neural Visual Decoding with fMRI* Part of [Salvatore Falciglia](https://scholar.google.com/citations?user=E-nObHcAAAAJ&hl=it&oi=ao)'s MSc thesis
+*Neural Visual Decoding with fMRI* Part of [Salvatore Falciglia](https://scholar.google.com/citations?user=E-nObHcAAAAJ&hl=it&oi=ao)'s MSc thesis @ [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home) & [SSAS](https://web.uniroma1.it/sssas/)
 <p align="center">
 <img src="d-vaegan.jpg" width="95%">
 </p>
