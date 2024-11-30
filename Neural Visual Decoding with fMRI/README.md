@@ -1,3 +1,32 @@
+<div align="center">
+
+# **A novel Deep Learning approach for Visual Neural Decoding<br> leveraging EEG manifold and fMRI recordings**
+*Neural Visual Decoding with fMRI* Part of [Salvatore Falciglia](https://scholar.google.com/citations?user=E-nObHcAAAAJ&hl=it&oi=ao)'s MSc thesis
+<p align="center">
+<img src="d-vaegan.png" width="95%">
+</p>
+
+
+[📇 Paper](https://www.sciencedirect.com/science/article/pii/S0925231224004259) |
+[🤗 Hugging Face Leaderboard of Models](https://huggingface.co/spaces/DavidVivancos/MindBigData-Leaderboard) |
+[📚 MindBigData2022](https://huggingface.co/datasets/DavidVivancos/MindBigData2022) 
+
+[Salvatore Falciglia](https://scholar.google.com/citations?user=E-nObHcAAAAJ&hl=it&oi=ao)<sup>1,3</sup>, 
+[Filippo Betello](https://scholar.google.com/citations?user=ZjIo22MAAAAJ&hl=it&oi=ao)<sup>1</sup>,
+[Samuele Russo](https://scholar.google.com/citations?user=bvNvDiEAAAAJ&hl=it&oi=ao)<sup>2</sup>, 
+[Christian Napoli](https://scholar.google.com/citations?user=NS1JOAUAAAAJ&hl=it)<sup>1,4,5#</sup>
+
+<sup>1</sup>Department of Computer, Control and Management Engineering, Via Ariosto 25, Rome, 00185, Italy,   
+<sup>2</sup>Department of Psychology, Sapienza University of Rome, Via dei Marsi 78, Rome, 00185, Italy, 
+<sup>3</sup>The BioRobotics Institute, Scuola Superiore Sant’Anna, Pisa, 56025, Italy, 
+<sup>4</sup>Institute for Systems Analysis and Computer Science, Italian National Research Council, Via dei Taurini 19, Rome, 00185, Italy,
+<sup>5</sup>Department of Intelligent Computer Systems, Czestochowa University of Technology, al.Armii Krajowej 36, Czestochowa, 42-200, Poland
+
+<sup>#</sup> Corresponding author
+
+</div>
+
+
 # Neural Visual Decoding with fMRI
 
 **Final Project - “Neural Networks” Course at Sapienza University of Rome, A.Y. 2022/2023** \
