@@ -48,5 +48,5 @@ Future research should explore variations on the proposed architecture, possibly
 # Reference
 
 - 📄 **Publication July 2024**:
-  [Learning visual stimulus-evoked EEG manifold for neural image classification.](https://www.sciencedirect.com/science/article/pii/S0925231224004259)<br>
+  [Learning visual stimulus-evoked EEG manifold for neural image classification.](https://www.sciencedirect.com/science/article/pii/S0925231224004259)
   S.Falciglia, F.Betello, S.Russo, C.Napoli#. Neurocomputing 2024.
