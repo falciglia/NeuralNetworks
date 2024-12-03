@@ -50,3 +50,15 @@ Future research should explore variations on the proposed architecture, possibly
 - 📄 **Publication July 2024**:
   [Learning visual stimulus-evoked EEG manifold for neural image classification.](https://www.sciencedirect.com/science/article/pii/S0925231224004259)
   S.Falciglia, F.Betello, S.Russo, C.Napoli#. Neurocomputing 2024.
+  
+```bibtex
+@article{falciglia2024learning,
+  title={Learning visual stimulus-evoked EEG manifold for neural image classification},
+  author={Falciglia, Salvatore and Betello, Filippo and Russo, Samuele and Napoli, Christian},
+  journal={Neurocomputing},
+  volume={588},
+  pages={127654},
+  year={2024},
+  publisher={Elsevier}
+}
+```
