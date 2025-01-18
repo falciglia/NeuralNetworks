@@ -24,6 +24,8 @@
 
 <sup>#</sup> Corresponding author
 
+🎧 [▶︎ •၊၊||၊|။|||| | podcast by notebooklm.google | ||||။|၊||၊၊•](https://github.com/falciglia/Sapienza-Rome/raw/refs/heads/main/Neural%20Visual%20Decoding%20with%20EEG/podcast_RieManiSpectraNet.wav) 🎙️
+
 </div>
 
 # Welcome👋🧠
